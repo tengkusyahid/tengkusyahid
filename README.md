@@ -6,7 +6,4 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - /v2/nfts/collections/{account_id}
-<!---
-tengkusyahid/tengkusyahid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+https://cache.tonapi.io/imgproxy/2_S8J7W2ZvbksgpKkzdenfkn5uqPoMTqsIxTwMUwkYc/rs:fill:200:200:1/g:no/aHR0cHM6Ly90b24uYW1zMy5kaWdpdGFsb2NlYW5zcGFjZXMuY29tL3RvbmFwaS1taXNjL2xvZ29zL3dhbGxldF9ib3RfMjg4LnN2Zw.webp
